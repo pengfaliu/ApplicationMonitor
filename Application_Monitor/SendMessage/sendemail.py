@@ -2,7 +2,7 @@
 #coding=utf8
 #Filename: mail.py
 #Purpose: Send email with txt content or files and image attachment
-#Author:  wangbaoshun
+#Author:  wangbaoshun & pengfaliu@163.com
 #Created: 12/21/2015 d/m/y
 #Requirement: python >=2.4
 #Version: 1.0.0

@@ -4,7 +4,7 @@
 # Name:        OracleOperate.py
 # Purpose:     provide oracle's operation.
 # Author:      liufapeng
-# Email:       pengfaliu@16e.com
+# Email:       pengfaliu@163.com
 # Created:     03/09/2016  d/m/y
 # Copyright:   (c) liufapeng 2015
 # requirement: python >=2.4
